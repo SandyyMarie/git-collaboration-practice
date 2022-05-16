@@ -8,3 +8,5 @@ I am adding text
 Might need to redo Turing folder? (git init at the root of you r project not the root of the entire folder)
 
 Eli add
+
+Eli continues to add text
